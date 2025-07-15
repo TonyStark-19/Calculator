@@ -17,17 +17,23 @@ body {
     background-image: linear-gradient(to bottom right, rgba(79, 51, 176, 1), rgba(210, 53, 165));
 }
 
+/* container */
+
 .container {
     width: 350px;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+    overflow: hidden;
 }
+
+/* calculator box */
 
 .calculator {
     position: relative;
     padding: 20px;
-    border-radius: 12px;
     box-shadow: 0 0 30px #000;
 }
+
+/* theme toggler button */
 
 .theme-toggler {
     position: absolute;
@@ -58,6 +64,8 @@ body {
     z-index: -1;
 }
 
+/* output screen */
+
 .display {
     height: 150px;
     width: 100%;
@@ -71,6 +79,8 @@ body {
     padding-right: 10px;
     background: none;
 }
+
+/* all buttons */
 
 .buttons {
     display: grid;
@@ -138,6 +148,6 @@ body {
 @media (max-width: 400px) {
 
     .container {
-        width: 300px;
+        width: 90%;
     }
 }

@@ -6,6 +6,7 @@ const buttons = document.querySelectorAll("button");
 const specialChars = ["%", "*", "/", "-", "+", "="];
 let output = "";
 
+// calculate function
 const calculate = (btnValue) => {
     const lastChar = output.slice(-1);
 
