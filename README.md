@@ -4,21 +4,6 @@ A **sleek and functional calculator** built using **HTML, CSS, and JavaScript**.
 
 ---
 
-## ✨ Features  
-
-✅ **Responsive Design** – Works seamlessly across all devices.  
-🌗 **Light & Dark Theme** – Easily toggle between themes.  
-➕➖ **Basic Operations** – Supports addition, subtraction, multiplication, division, and percentages.  
-🎨 **Interactive UI** – Smooth animations & user-friendly interface.  
-
----
-
-## 🚀 Live Demo  
-
-🔗 **[View Live Calculator](https://tonystark-19.github.io/Calculator/)**  
-
----
-
 ## 📸 Screenshots  
 
 ### ☀️ Light Mode:  
@@ -26,6 +11,21 @@ A **sleek and functional calculator** built using **HTML, CSS, and JavaScript**.
 
 ### 🌙 Dark Mode:  
 ![Dark Mode](Screenshot/image.png)  
+
+---
+
+## 🌐 Live Demo
+
+The project is live and can be played here: [View Live Calculator](https://tonystark-19.github.io/Calculator/)
+
+--- 
+
+## ✨ Features  
+
+✅ **Responsive Design** – Works seamlessly across all devices.  
+🌗 **Light & Dark Theme** – Easily toggle between themes.  
+➕➖ **Basic Operations** – Supports addition, subtraction, multiplication, division, and percentages.  
+🎨 **Interactive UI** – Smooth animations & user-friendly interface.  
 
 ---
 
@@ -43,6 +43,24 @@ A **sleek and functional calculator** built using **HTML, CSS, and JavaScript**.
 2️⃣ Press **"="** to compute results.  
 3️⃣ Use **"C"** to clear the display and **"DEL"** to remove the last entry.  
 4️⃣ Click the **theme toggle button** in the top-right corner to switch between light & dark modes.  
+
+---
+
+## 🛠️ How to run on your own system
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/TonyStark-19/Calculator.git
+   ```
+
+2. Navigate into the project folder:
+
+   ```bash
+   cd Calculator
+   ```
+
+3. Open `index.html` in your browser.
 
 ---
 
