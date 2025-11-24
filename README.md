@@ -1,16 +1,15 @@
 # 🖩 Responsive Calculator with Light & Dark Theme  
 
-A **sleek and functional calculator** built using **HTML, CSS, and JavaScript**. This calculator is **fully responsive**, supports **light and dark modes**, and is deployed on **GitHub Pages**.  
+A modern, responsive, and user-friendly calculator built using **HTML, CSS, and JavaScript**.
+It supports **light & dark themes**, smooth UI interactions, and works perfectly across **all devices**.
 
 ---
 
 ## 📸 Screenshots  
 
-### ☀️ Light Mode:  
-![Light Mode](Screenshot/image2.png)  
-
-### 🌙 Dark Mode:  
-![Dark Mode](Screenshot/image.png)  
+| ☀️ Light Mode | 🌙 Dark Mode |
+|------------|------------|
+| ![Screenshot 1](images/Screenshot/image2.png) | ![Screenshot 2](images/Screenshot/image.png) |
 
 ---
 
@@ -22,18 +21,22 @@ The project is live and can be played here: [View Live Calculator](https://tonys
 
 ## ✨ Features  
 
-✅ **Responsive Design** – Works seamlessly across all devices.  
-🌗 **Light & Dark Theme** – Easily toggle between themes.  
-➕➖ **Basic Operations** – Supports addition, subtraction, multiplication, division, and percentages.  
-🎨 **Interactive UI** – Smooth animations & user-friendly interface.  
+- **📱 Fully Responsive** – Optimized for phones, tablets, and desktops.
+- **🌗 Light & Dark Themes** – Toggle easily between both modes.
+- **➕ Basic Arithmetic Operations** – Addition, subtraction, multiplication, division.
+- **💯 Percentage Support** – Quickly calculate percentage-based results.
+- **🧼 Clear & Delete Options** – Reset everything or remove the last input.
+- **🎨 Smooth, Clean UI** – Crisp design with subtle animations.
 
 ---
 
 ## 🛠️ Technologies Used  
 
-- **🖥️ HTML5** – Page structure.  
-- **🎨 CSS3** – Styling & responsiveness.  
-- **⚡ JavaScript** – Core functionality & dynamic features.  
+| Technology           | Purpose                                 |
+| -------------------- | --------------------------------------- |
+| **HTML5**            | Structure of the calculator             |
+| **CSS3**             | Styling, animations, and responsiveness |
+| **JavaScript (ES6)** | Functional logic and interactivity      |
 
 ---
 
