@@ -1,5 +1,16 @@
 # 🖩 Responsive Calculator with Light & Dark Theme  
 
+![Repo Size](https://img.shields.io/github/repo-size/TonyStark-19/Calculator?color=yellow)
+![Stars](https://img.shields.io/github/stars/TonyStark-19/Calculator?color=blue)
+![Forks](https://img.shields.io/github/forks/TonyStark-19/Calculator?color=blueviolet)
+![Last Commit](https://img.shields.io/github/last-commit/TonyStark-19/Calculator?color=brightgreen)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Theme Toggle](https://img.shields.io/badge/Feature-Light%20%26%20Dark%20Theme-blueviolet)
+![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-black?logo=github)
+
 A modern, responsive, and user-friendly calculator built using **HTML, CSS, and JavaScript**.
 It supports **light & dark themes**, smooth UI interactions, and works perfectly across **all devices**.
 
